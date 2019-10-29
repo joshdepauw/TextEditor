@@ -1,0 +1,11 @@
+C:\Users\Josh\source\repos\JDChap15Proj7\JDChap15Proj7\bin\Debug\JDChap15Proj7.exe.config
+C:\Users\Josh\source\repos\JDChap15Proj7\JDChap15Proj7\bin\Debug\JDChap15Proj7.exe
+C:\Users\Josh\source\repos\JDChap15Proj7\JDChap15Proj7\bin\Debug\JDChap15Proj7.pdb
+C:\Users\Josh\source\repos\JDChap15Proj7\JDChap15Proj7\obj\Debug\JDChap15Proj7.csprojResolveAssemblyReference.cache
+C:\Users\Josh\source\repos\JDChap15Proj7\JDChap15Proj7\obj\Debug\JDChap15Proj7.Properties.Resources.resources
+C:\Users\Josh\source\repos\JDChap15Proj7\JDChap15Proj7\obj\Debug\JDChap15Proj7.TextEditor.resources
+C:\Users\Josh\source\repos\JDChap15Proj7\JDChap15Proj7\obj\Debug\JDChap15Proj7.csproj.GenerateResource.Cache
+C:\Users\Josh\source\repos\JDChap15Proj7\JDChap15Proj7\obj\Debug\JDChap15Proj7.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\JDChap15Proj7\JDChap15Proj7\obj\Debug\JDChap15Proj7.exe
+C:\Users\Josh\source\repos\JDChap15Proj7\JDChap15Proj7\obj\Debug\JDChap15Proj7.pdb
+C:\Users\Josh\source\repos\JDChap15Proj7\JDChap15Proj7\obj\Debug\JDChap15Proj7.ChildForm.resources

@@ -1,2 +1,2 @@
 # TextEditor
-Text editor using MDI
+Text editor using Multiple Document Interface
